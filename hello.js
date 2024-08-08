@@ -1,1 +1,1 @@
-const pair = "extraordinaire";
+const pairbidex = "extraordinaire";
